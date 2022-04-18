@@ -31,8 +31,7 @@ print(len(listaLlena))
 
 #1 Selecciona la leche e imprimela
 
-#Selecciona el pan e imprimelo
-
+#2 Selecciona el pan e imprimelo
 
 
 #Pero y si necesito secciones completas ? "SLICING" o si necesito meterle y sacarle cosas ?

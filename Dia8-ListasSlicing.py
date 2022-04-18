@@ -25,7 +25,15 @@
 #print(salvajes1)
 #salvajes2 = listaEjemplo[]
 #print(salvajes2)
-print("hello")
+#print("hello")
+
+#Reto uno Crea una lista con los siguientes items: a, b, c, d y guardala en uan variable
+
+#Reto2 Imprime el primer y segundo objeto de la lista
+
+#Reto3 Imprime desde el tercer objeto hasta el final
+
+#Reto4 Imprime el último objeto
 
 
 
