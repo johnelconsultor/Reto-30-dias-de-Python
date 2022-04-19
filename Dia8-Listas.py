@@ -2,7 +2,7 @@
 #Aprende PYTHON desde el Telefóno
 #APP Gratuita en mi descripción de TK
 
-#DIA 8LISTS: Son una estructura de datos que respeta el orden de los objetos que almacenamos en ellas, permite cambiar ese orden, modificarla  y almacenae duplicados
+#DIA 8 LISTS: Son una estructura de datos que respeta el orden de los objetos que almacenamos en ellas, permite cambiar ese orden, modificarla  y almacenae duplicados
 
 #Cómo crear una lista
 listaVacia = []
@@ -19,7 +19,7 @@ print(len(listaLlena))
 #print("[-4, \t -3, \t -2, \t -1]")
 
 #Seleccionando partes
-#Para seleccionar string[#indice]
+#Para seleccionar lista[#indice]
 
 #print("Seleccionando Partes")
 #lista = ["a", "b", "c", "d"]
@@ -29,9 +29,9 @@ print(len(listaLlena))
 #Retos
 #listaCompras = ["naranja", "manzana", "huevos", "pan"]
 
-#1 Selecciona la leche e imprimela
+#1 Selecciona huevos e imprimelos
 
-#2 Selecciona el pan e imprimelo
+#2 Selecciona el pan e imprimelos
 
 
 #Pero y si necesito secciones completas ? "SLICING" o si necesito meterle y sacarle cosas ?

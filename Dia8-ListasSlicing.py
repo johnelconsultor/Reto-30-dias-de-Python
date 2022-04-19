@@ -2,7 +2,7 @@
 #Aprende PYTHON desde el Telefóno
 #APP Gratuita en mi descripción de TK
 
-#DIALISTS: Son una estructura de datos que respeta el orden de los objetos que almacenamos en ellas, permite cambiar ese orden, modificarla  y almacenae duplicados
+#DIA 8 LISTS: Son una estructura de datos que respeta el orden de los objetos que almacenamos en ellas, permite cambiar ese orden, modificarla  y almacenae duplicados
 #Seleccionar partes de una lista
 #Sistema de indices
 
@@ -14,6 +14,7 @@
 #Seleccionando secciones
 #En python podemos seleccionar secciones de strings creando substrings  y esto se realiza a traves del sistema de indices
 #string[#indiceInicio:#indiceFinal]
+
 #print("\n SLICING con listas")
 #listaEjemplo = ["perro", "gato", "vaca", "león"]
 #domesticos1 = listaEjemplo[]
