@@ -16,7 +16,7 @@
 #string[#indiceInicio:#indiceFinal]
 
 #print("\n SLICING con listas")
-#listaEjemplo = ["perro", "gato", "vaca", "león"]
+#listaEjemplo = ["perro", "gato", "vaca", "león", "mandril"]
 #domesticos1 = listaEjemplo[]
 #print(domesticos1)
 #domesticos2 = listaEjemplo[]
@@ -26,7 +26,6 @@
 #print(salvajes1)
 #salvajes2 = listaEjemplo[]
 #print(salvajes2)
-#print("hello")
 
 #Reto uno Crea una lista con los siguientes items: a, b, c, d y guardala en uan variable
 
