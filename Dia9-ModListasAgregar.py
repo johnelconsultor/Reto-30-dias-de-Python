@@ -2,7 +2,7 @@
 #Aprende PYTHON desde el Telefóno
 #APP Gratuita en mi descripción de TK
 
-#Dia 9 - Modificando listas
+#Dia 9 - Agregar items a listas
 #Las listas son estructuras de datos mutables cuyo orden puede ser alterado
 # animales = ["perro", "gato", "vaca", "león", "mandril"]
 # print(f"lista inicial: {animales}")
