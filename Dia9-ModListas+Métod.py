@@ -14,11 +14,12 @@
 
 # print("\n Método .extend()")
 #Para unir listas
-# animalesTodos2 = animales.extend(animales2)
+# animales.extend(animales2)
+#print(animales)
 
 # print("\n Método .count()")
-#Para contar los items en una lista
-#print(animalesTodos.count())
+#Para contar items específicos en una lista
+#print(animalesTodos.count("pollo"))
 
 # print("\n Función Len()")
 #Para medir el largo de una lista
@@ -26,6 +27,6 @@
 
 # print("\n Método .Index()")
 #Para Encontrar el índice de un item específico
-#print(len(animalesTodos))
+#print(animalesTodos.index("pollo"))
 
 #Acabamos de ver algunos de los tantos métodos adicionales pero aún nos faltan dos my importantes usados para cambiar el orden, éstos los veremos en el siguiente tiktok
