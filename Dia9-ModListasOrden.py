@@ -2,7 +2,7 @@
 #Aprende PYTHON desde el Telefóno
 #APP Gratuita en mi descripción de TK
 
-#Dia 9 - Agregar items a listas
+#Dia 9 - Ordenar items en listas
 #Las listas son estructuras de datos mutables cuyo orden puede ser alterado
 letras = ["b", "d", "a", "c", "e"]
 numeros = [4,1,2,5,3,0,6]
