@@ -21,16 +21,16 @@ El reto de Python en 30 día y algo desde el celular fue creado con el propósit
 ## Reto aprendamos 🐍python🐍 desde el celular
 
 |# Day | Topics                                                    |
-|------|:---------------------------------------------------------:|
-| 01  |  [Operaciones](./Dia1-Operaciones.py) |
-|     |  [Tipos de Datos](./Dia1-Operaciones.py) |
+|------|:---------------------------------------------------------:|:---------------------------------------------------------:|
+| 01  |  [Operaciones](./Dia1-Operaciones.py)| [Tipos de Datos](./Dia1-Operaciones.py)  |
+|     |  |
 | 02  |  [Variables](./Dia2-variables.py)|
 |     |  [Estructuras de Datos](./Dia2-DataStructures.py)|
 | 03  |  [Convenciones para Variables](./Dia3-ConvencionesVariables.py)|
 |     |  [Funciones Nativas](./Dia3-FuncionesNativas.py)|
 | 04  |  [Operadores de Comparación](./Dia4-OperadoresComparacion.py)|
 |     |  [Más operadores de Comparación](./Dia4-MasOperadoresComp.py)|
-| 05  |  [Operadores de Comparación](./Dia4-OperadoresComparacion.py)|
+| 05  |  [Función Input](./Dia4-OperadoresComparacion.py)|
 |     |  [Más operadores de Comparación](./Dia4-MasOperadoresComp.py)|
 
 
