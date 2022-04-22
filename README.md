@@ -1,5 +1,5 @@
 # John El Consultor presenta:
-## Reto de Python en 30 días y algo desde el celular
+## Reto aprendamos 🐍python🐍 desde el celular
 [![Build Status](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrroEYP9yetgKGOYZCeZysSIjjgBMKOBUjkz-lB0yk0mxdUc4qRkvioFEDrmwk6R29Inw&usqp=CAU)
 
 El reto de Python en 30 día y algo desde el celular fue creado con el propósito de generar un curso introductorio a Python que pueda ser aprendido vía móvil
@@ -18,11 +18,12 @@ El reto de Python en 30 día y algo desde el celular fue creado con el propósit
 - Web de John El Consultor para encontrar recursos gratuitos <https://www.johnelconsultor.com.co/>
 - Link de Tiktok para la lista de reproducción <https://www.tiktok.com/@johnelconsultor>
 
-# 🐍 30 Days Of Python 
+#  Reto aprendamos 🐍python🐍 desde el celular
 
 |# Day | Topics                                                    |
 |------|:---------------------------------------------------------:|
-| 01  |  [Introduction](./readme.md)|
+| 01  |  [Operaciones en Python](./Dia1-Operaciones.py) |
+|    |  [Operaciones en Python](./Dia1-Operaciones.py) |
 | 02  |  [Operaciones en Python](./Dia1-Operaciones.py)|
 | 03  |  [Operators](./03_Day_Operators/03_operators.md)|
 | 04  |  [Strings](./04_Day_Strings/04_strings.md)|
