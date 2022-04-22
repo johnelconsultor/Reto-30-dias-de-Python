@@ -28,7 +28,12 @@ El reto de Python en 30 día y algo desde el celular fue creado con el propósit
 |     |  [Estructuras de Datos](./Dia2-DataStructures.py)|
 | 03  |  [Convenciones para Variables](./Dia3-ConvencionesVariables.py)|
 |     |  [Funciones Nativas](./Dia3-FuncionesNativas.py)|
-|
+| 04  |  [Operadores de Comparación](./Dia4-OperadoresComparacion.py)|
+|     |  [Más operadores de Comparación](./Dia4-MasOperadoresComp.py)|
+| 05  |  [Operadores de Comparación](./Dia4-OperadoresComparacion.py)|
+|     |  [Más operadores de Comparación](./Dia4-MasOperadoresComp.py)|
+
+
 
 🧡🧡🧡 HAPPY CODING 🧡🧡🧡
 
