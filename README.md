@@ -26,7 +26,14 @@ El reto de Python en 30 día y algo desde el celular fue creado con el propósit
 | 02  |  [Variables](./Dia2-variables.py) | [Estructuras de Datos](./Dia2-DataStructures.py) |
 | 03  |  [Convenciones para Variables](./Dia3-ConvencionesVariables.py) |  [Funciones Nativas](./Dia3-FuncionesNativas.py) |
 | 04  |  [Operadores de Comparación](./Dia4-OperadoresComparacion.py) |  [Más operadores de Comparación](./Dia4-MasOperadoresComp.py) |
-| 05  |  [Función Input](./Dia4-OperadoresComparacion.py) | [Más operadores de Comparación](./Dia4-MasOperadoresComp.py) |
+| 05  |  [Función Input](./Dia5-Input.py) | [Operadores Lógicos](./Dia5-OperadoresLogicos.py) |
+| 06  |  [Strings Formateo](./Dia6-StringsFormateo.py) | [Strings Métodos](./Dia6-StringsMétodos.py) |
+| 07  |  [Strings Seleccionar Items](./Dia7-StringsSeleccionar.py) | [Strings Seleccionar Secciones](./Dia7-StringsSlicing.py) |
+| 08  |  [Listas Seleccionar Items](./Dia8-Listas.py) | [Listas Seleccionar Secciones](./Dia8-ListasSlicing.py) |
+| 09  |  [Listas Agregar Items](./Dia9-ModListasAgregar.py) | [Listas Sacar Secciones](./Dia9-ModListasSacar.py) |
+|     |  [Listas Ordenar Items](./Dia9-ModListasOrden.py) | [Listas Otros Métodos](./Dia9-ModListasSacar.py) |
+
+
 
 
 
