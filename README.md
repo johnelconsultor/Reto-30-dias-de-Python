@@ -23,7 +23,7 @@ El reto de Python en 30 día y algo desde el celular fue creado con el propósit
 |# Day | Topics                                                    |
 |------|:---------------------------------------------------------:|
 | 01  |  [Introduction](./readme.md)|
-| 02  |  [Operaciones en Python](/.Reto-30-dias-de-Python/Dia1-Operaciones.py)|
+| 02  |  [Operaciones en Python](./Dia1-Operaciones.py)|
 | 03  |  [Operators](./03_Day_Operators/03_operators.md)|
 | 04  |  [Strings](./04_Day_Strings/04_strings.md)|
 | 05  |  [Lists](./05_Day_Lists/05_lists.md)|
