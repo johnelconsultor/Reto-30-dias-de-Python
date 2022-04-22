@@ -20,7 +20,7 @@ El reto de Python en 30 día y algo desde el celular fue creado con el propósit
 
 ## Reto aprendamos 🐍python🐍 desde el celular
 
-|# Dia | Temas                                                                                                                 |
+|# Dia | Temas 1                                                   | Temas 2                                                   |
 |------|:---------------------------------------------------------:|:---------------------------------------------------------:|
 | 01  |  [Operaciones](./Dia1-Operaciones.py)| [Tipos de Datos](./Dia1-Operaciones.py)  |
 | 02  |  [Variables](./Dia2-variables.py)|
