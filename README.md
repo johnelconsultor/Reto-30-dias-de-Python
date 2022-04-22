@@ -36,8 +36,8 @@ El reto de Python en 30 día y algo desde el celular fue creado con el propósit
 
 
 
-
-🧡🧡🧡 HAPPY CODING 🧡🧡🧡
+ 
+🐍Trabajo en pthrrrrrrrrrrrroceso  (última actualización: 22/04/2022)🐍
 
 
 
