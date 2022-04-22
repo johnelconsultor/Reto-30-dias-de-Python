@@ -16,7 +16,8 @@ El reto de Python en 30 día y algo desde el celular fue creado con el propósit
 
 ## Links pertinentes
 - Web de John El Consultor para encontrar recursos gratuitos <https://www.johnelconsultor.com.co/>
-- Link de Tiktok para la lista de reproducción <https://www.tiktok.com/@johnelconsultor>
+- Apóyame suscribiéndote a mi canal de youtube <https://www.youtube.com/channel/UCbVhUOhAECjie66D0BLNWBg>
+- Por ahora éste curso debe ser hecho a la par que los videos en la lista de reproducción de tiktok -> <https://www.tiktok.com/@johnelconsultor>
 
 ## Reto aprendamos 🐍python🐍 desde el celular
 
