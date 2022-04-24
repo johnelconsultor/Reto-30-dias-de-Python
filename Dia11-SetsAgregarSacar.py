@@ -68,5 +68,5 @@
 # del conjuntoF2
 #print(conjuntoF2) #Tener cuidado porque acá nos daría error si intentamos ejecutar porque por el "del ya no existe"
 
-#Se preguntarán ustedes ahora que se cómo agregarle cosas a los sets, cómo puedo acceder a ellas, existen dos modos y los cubriremos en el siguiente tiktok
+#Se preguntarán ustedes qué otras cosas podemos hacer con los conjuntos, en el siguiente veremos más métodos y operaciones con conjuntos
 
