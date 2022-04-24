@@ -32,32 +32,32 @@
 # print(f"Conjunto2: {conjunto2}")
 # print(conjunto1.intersection(conjunto2))
 
-#Print("\n Revisando si es superset")
+#print("\n Revisando si es superset")
 #Un superset (Superconjunto) es un conjuntao que contiene a otro
 # print(f"Conjunto1: {conjunto1}")
 # print(f"Conjunto2: {conjunto2}")
 # print(conjunto1.issuperset(conjunto2))
 
-#Print("\n Revisando si es subset")
+#print("\n Revisando si es subset")
 #Un subset (Subconjunto) es un conjunto que es contenido por otro
 # print(f"Conjunto1: {conjunto1}")
 # print(f"Conjunto2: {conjunto2}")
 # print(conjunto2.issubset(conjunto1))
 
-#Print("\n Revisando diferencias entre dos conjuntos")
+#print("\n Revisando diferencias entre dos conjuntos")
 #Las diferentes entre dos conjuntos son los elementos que no tienen en común
 # print(f"Conjunto1: {conjunto1}")
 # print(f"Conjunto2: {conjunto2}")
 # print(conjunto1.difference(conjunto2)) #Hay diferencias respecto del superset contra el subset
 # print(conjunto2.difference(conjunto1)) #No hay diferencias respecto del subset contra el superset
 
-#Print("\n Revisando diferencias simétrias entre dos conjuntos")
+#print("\n Revisando diferencias simétrias entre dos conjuntos")
 #El resultado de la diferencia simétrica es un subconjujnto que contiene todos los items de ambos ocnjuntos excepto aquellos que están en ambos a la vez
 # print(f"Conjunto1: {conjunto1}")
 # print(f"Conjunto2: {conjunto2}")
 # print(conjunto1.symmetric_difference(conjunto2)) #Hay diferencias respecto del superset contra el subset
 
-#Print("\n Revisando si son diferentes")
+#print("\n Revisando si son diferentes")
 #Si ambos conjuntos no tienen items en comun son dispares y eso se puede revisar a través de
 # print(f"Conjunto1: {conjunto1}")
 # print(f"Conjunto2: {conjunto2}")
