@@ -1,6 +1,8 @@
 #JOHN EL CONSULTOR PRESENTA
 #Aprende PYTHON desde el Telefóno
-#APP Gratuita en mi descripción de TK
+#En mi perfil de tiktok encuentran:
+#1 Link a mi web donde esta python
+#2 Lista de reproducción con el curso
 
 #Dia 11 - Sets / Conjuntos
 #La definción de sets / conjuntons en python es la misma que la de matemáticas. Un conjunto es una colección de elementos únicos sin orden específico
@@ -65,11 +67,6 @@
 #Utilizamos la palabra del
 # del conjuntoF2
 #print(conjuntoF2) #Tener cuidado porque acá nos daría error si intentamos ejecutar porque por el "del ya no existe"
-
-
-# lista = list(conjuntoF)
-# print(lista)
-
 
 #Se preguntarán ustedes ahora que se cómo agregarle cosas a los sets, cómo puedo acceder a ellas, existen dos modos y los cubriremos en el siguiente tiktok
 
