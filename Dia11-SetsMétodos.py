@@ -1,6 +1,8 @@
 #JOHN EL CONSULTOR PRESENTA
 #Aprende PYTHON desde el Telefóno
-#APP Gratuita en mi descripción de TK
+#En mi perfil de tiktok encuentran:
+#1 Link a mi web donde esta python
+#2 Lista de reproducción con el curso
 
 #Dia 11 - Sets / Operaciones
 #La definción de sets / conjuntons en python es la misma que la de matemáticas. Un conjunto es una colección de elementos únicos sin orden específico
