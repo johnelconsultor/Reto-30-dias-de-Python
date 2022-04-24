@@ -22,19 +22,58 @@ conjuntoF = {"cosa1","cosa2","cosa3","cosa4"}
 print(conjuntoF)
 print(len(conjuntoF))
 
-
-#print("\n Accediendo a items en un conjunto")
-#print("\n Viendo si algún item existe en el conjunto")
+#print("\n Chequeando si hay un item en un set")
+#Utilizamos el operador "in" para buscar un item dentro del set
+print(conjuntoF)
 print("cosa2" in conjuntoF)
-print("cosa10" in conjuntoF)
 
-#print("\n Sistema de indices")
-print("{a, \t b, \t c, \t d}")
-print("{0, \t 1, \t 2, \t 3}")
-print("{-4, \t -3, \t -2, \t -1}")
+#print("\n Añadiendo items a un set")
+#print("Utilizando el método .add()")
+#Utilizamos el método .add() para añadir items uno por uno
+conjuntoF.add("cosa5")
+print(conjuntoF)
 
-#print("\n Accediento a items específicos")
+#print("\n Utilizando el método .update()")
+#Utilizamos el método .update() para añadir varios items a la vez, acá el argumento será una lista
+conjuntoF.update(["cosa6", "cosa7", "cosa8"])
+print(conjuntoF)
+
+#print("\n Sacando items del set")
+#print("Utilizando el método .remove()")
+#Utilizamos el método .remove() para sacar items (Si el item no exite lanza error así que es mejor verificar previo)
+conjuntoF.remove("cosa8")
+print(conjuntoF)
+
+#print("\n Utilizando el método .pop()")
+#Utilizamos el métodos .pop() para sacer items aleatoriamente del set
+conjuntoF.pop()
+print(conjuntoF)
+
+#print("\n Viendo el item que sacó el .pop()")
+#Si queremos ver lo que sacó
+itemSacado = conjuntoF.pop()
+print(conjuntoF)
+print(itemSacado)
+
+#print("\n Utilizando el método .copy()")
+#Utilizamos el método .copy() para crear copias del set
+conjuntoF1 = conjuntoF.copy()
+conjuntoF2 = conjuntoF.copy()
+
+#print("\n Utilizando el método .clear()")
+#Utilizamos el método .clear() para limpiar el set y dejarlo vacio
+conjuntoF1.clear()
+print(conjuntoF1)
+
+#print("\n Utilizando la palabra clave del")
+#Utilizamos la palabra del
+del conjuntoF2
+#print(conjuntoF2) #Tener cuidado porque acá nos daría error si intentamos ejecutar porque por el "del ya no existe"
 
 
+lista = list(conjuntoF)
+print(lista)
 
-#print("\n Sistema de indices")
+
+#Se preguntarán ustedes ahora que se cómo agregarle cosas a los sets, cómo puedo acceder a ellas, existen dos modos y los cubriremos en el siguiente tiktok
+
