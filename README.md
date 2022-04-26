@@ -35,7 +35,8 @@ El reto de Python en 30 día y algo desde el celular fue creado con el propósit
 |     |  [Listas Ordenar Items](./Dia9-ModListasOrden.py) | [Listas Otros Métodos](./Dia9-ModListasSacar.py) |
 | 10  |  [Tuplas y cómo interactuar](./Dia10-Tuplas.py) | [Métodos de Tuplas](./Dia10-Tuplas.py) |
 | 11  |  [Conjuntos Crear, Agregar y Sacar](./Dia11-SetsAgregarSacar.py) | [Métodos de Conjuntos](./Dia11-SetsMétodos.py) |
-
+| 12  |  [Diccionarios](./Dia12-Dictionaries.py) | [Métodos de Diccionarios](./Dia12-Dictionaries+Metodos.py) |
+| 13  |  [Condicionales](./Dia13-PalabrasCondicionales.py) | [Condicionales y Operadores Lógicos](./Dia13-CondicionalesYOperadoresLogicos.py) |
 
 
 
