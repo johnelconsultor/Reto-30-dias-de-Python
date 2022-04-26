@@ -54,7 +54,7 @@ persona = {
 # print(persona.keys())
 
 # print("\n Obtener todas los valores en el diccionario")
-#Podemos sacar todas las llaves nada más con el método .keys()
+#Podemos sacar todas los valores nada más con el método .values()
 # print(persona.values())
 
 # #Ya son unos expertos en diccionarios
