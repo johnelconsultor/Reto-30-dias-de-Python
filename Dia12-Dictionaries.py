@@ -31,7 +31,6 @@ persona = {
 #Ejemplo de que el diccionario puede guardar diferentes tipos de datos y estructuras de datos también
 
 # print("Midiendo el largo del diccionario")
-# print(f"Diccionario 'Lleno': {len(lleno)}")
 # print(f"Diccionario 'Persona': {len(persona)}")
 
 # print("\n Accediento a items en el diccionario")
