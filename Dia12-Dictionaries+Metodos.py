@@ -25,36 +25,36 @@ persona = {
 #Ejemplo de que el diccionario puede guardar diferentes tipos de datos y estructuras de datos también
 
 
-print("\n Viendo si una llave específica existe en el diccionario")
+# print("\n Viendo si una llave específica existe en el diccionario")
 #Para revisar si hay una llave en el diccionario usamos la palabra clave in
-print("nombre" in persona)
-print("segundoApellido" in persona)
-print("Excel" in persona["habilidades"]) #Revisar si dentro de la lista que esta en el diccionario
+# print("nombre" in persona)
+# print("segundoApellido" in persona)
+# print("Excel" in persona["habilidades"]) #Revisar si dentro de la lista que esta en el diccionario
 
 
-print("\n Generando copias de un diccionario")
+# print("\n Generando copias de un diccionario")
 #Para geberar ciouas dek diccionario utilizamos el método .copy
-persona2 = persona.copy()
-persona3 = persona.copy()
+# persona2 = persona.copy()
+# persona3 = persona.copy()
 
-print("\n Limpiando el diccionario")
+# print("\n Limpiando el diccionario")
 #Si quiero dejar el diccionario sin nada por dentro usamos el método .clear()
-print(persona2.clear())
+# print(persona2.clear())
 
-print("\n Borrando el diccionario")
+# print("\n Borrando el diccionario")
 #Para borrar un dicionario usamos la palabra clave del
-del persona3
+# del persona3
 #print(persona3) #Lanza error porque el diccionario ya no existe al momento de imprimir
 
-print("\n Cambiando el diccionario a una lista de valores")
-print(persona.items())
+# print("\n Cambiando el diccionario a una lista de valores")
+# print(persona.items())
 
-print("\n Obtener todas las llaves en el diccionario")
+# print("\n Obtener todas las llaves en el diccionario")
 #Podemos sacar todas las llaves nada más con el método .keys()
-print(persona.keys())
+# print(persona.keys())
 
-print("\n Obtener todas los valores en el diccionario")
+# print("\n Obtener todas los valores en el diccionario")
 #Podemos sacar todas las llaves nada más con el método .keys()
-print(persona.values())
+# print(persona.values())
 
-#Ya son unos expertos en diccionarios
+# #Ya son unos expertos en diccionarios
