@@ -4,7 +4,7 @@
 #1 Link a mi web donde esta python
 #2 Lista de reproducción con el curso
 
-#Dia 15 RETO BÁSICO CALCULADORA IMC
+#Dia 16 RETO BÁSICO CALCULADORA IMC 2.0
 #La calculadora del índice de masa corporal nos permite conocer el 
 #estado de nuestro peso con base en nuestra altura crearemos una
 #que brinde mensajes personalizados
