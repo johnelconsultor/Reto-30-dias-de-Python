@@ -17,9 +17,15 @@
 
 #Tareas
 #1 Generar el letrero de bienvenida
+print("Calcule su IMC GRATIS")
 
 #2 Generar las variables que utilizaremos y respecitvos inputs
+nombre = input("Ingrese su Nombre: ")
+altura = float(input("Ingrese su ALTURA en Metros: "))
+peso = float(input("Ingrese su PESO en Kilos: "))
 
 #3 Generar el cálculo del resultado y almacenarlo en una variable
+imc = round(peso / (altura ** 2))
 
 #4 Entregar al usuario el mensaje final con su BMI Calculado
+print(f"{nombre} su IMC es: {imc}")
