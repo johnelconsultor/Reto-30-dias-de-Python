@@ -37,6 +37,10 @@ El reto de Python en 30 día y algo desde el celular fue creado con el propósit
 | 11  |  [Conjuntos Crear, Agregar y Sacar](./Dia11-SetsAgregarSacar.py) | [Métodos de Conjuntos](./Dia11-SetsMétodos.py) |
 | 12  |  [Diccionarios](./Dia12-Dictionaries.py) | [Métodos de Diccionarios](./Dia12-Dictionaries+Metodos.py) |
 | 13  |  [Condicionales](./Dia13-PalabrasCondicionales.py) | [Condicionales y Operadores Lógicos](./Dia13-CondicionalesYOperadoresLogicos.py) |
+| 14  |  [Bucle While](./Dia14-BucleWhile.py) | [Operadores de Asignación](./Dia14-OperadoresdeAsignacion.py) |
+|     |  [Bucle For I](./Dia14-BucleFor1.py) | [ucle For II](./Dia14-BucleFor2n.py) |
+| 15  |  [Reto Expectativa Vida](./Dia15-RetoBasicL&W.py) | [Reto Expectativa Vida Solución](./Dia15-RetoBasicL&WSolucion.py) |
+|     |  [Reto IMC](./Dia15-RetoBasicBMI.py) | [Reto IMC Solución](./Dia15-RetoBasicBMISolucion.py) |
 
 
 
