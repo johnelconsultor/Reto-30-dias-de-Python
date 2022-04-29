@@ -11,9 +11,11 @@
 
 #Elementos
 #Formula IMC: PESO(KG) / ALTURA (M)**2
+#Categirias IMC < 16 DELGADEZ EXTREMA, IMC 16 Y 19 DELGADO, IMC 19 Y 25 ACEPTABLE, IMC 25 Y 35 GORDO, IMC >35 OBESO
+#Mujer: 
 
-#Reto
-#Generar una calculadora del BMI que nos solicite los datos
+#Actividad generaremos una calculadora que calcule el IMC por género y
+#que brinde un mensaje personalizado
 
 #Tareas
 #1 Generar el letrero de bienvenida
@@ -22,4 +24,4 @@
 
 #3 Generar el cálculo del resultado y almacenarlo en una variable
 
-#4 Entregar al usuario el mensaje final con su BMI Calculado
+#4 Imprimir un mensaje personalizado al usuario acorde al IMC

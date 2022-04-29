@@ -4,12 +4,13 @@
 #1 Link a mi web donde esta python
 #2 Lista de reproducción con el curso
 
-#Dia 15 RETO BÁSICO VIDA EN SEMANAS
-#Generaremos una calculadora que le diga al usuario cuánta
-#vida le queda en años, meses y semanas
+#Dia 15 RETO BÁSICO CALCULADORA IMC
+#La calculadora del índice de masa corporal nos permite conocer el 
+#estado de nuestro peso con base en nuestra altura crearemos una
+#que brinde mensajes personalizados
+
 #Elementos
-# Expectativa de vida: 75 años
-# Año: 365 dias, 12 meses y 52 semanas
+#Formula IMC: PESO(KG) / ALTURA (M)**2
 
 #Reto
 #Generar una calculadora del BMI que nos solicite los datos
@@ -21,4 +22,4 @@
 
 #3 Generar el cálculo del resultado y almacenarlo en una variable
 
-#4 Entregar al usuario el mensaje final con su expectativa de vida
+#4 Entregar al usuario el mensaje final con su BMI Calculado
