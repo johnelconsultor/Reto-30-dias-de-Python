@@ -11,8 +11,8 @@
 
 #Elementos
 #Formula IMC: PESO(KG) / ALTURA (M)**2
-#Categirias IMC < 16 DELGADEZ EXTREMA, IMC 16 Y 19 DELGADO, IMC 19 Y 25 ACEPTABLE, IMC 25 Y 35 GORDO, IMC >35 OBESO
-#Mujer: 
+#Categorias IMC < 16 DELGADEZ EXTREMA, IMC 16 Y 19 DELGADO, IMC 19 Y 25 ACEPTABLE, IMC 25 Y 35 GORDO, IMC >35 OBESO
+
 
 #Actividad generaremos una calculadora que calcule el IMC por género y
 #que brinde un mensaje personalizado
