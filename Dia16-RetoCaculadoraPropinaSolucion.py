@@ -4,7 +4,7 @@
 #1 Link a mi web donde esta python
 #2 Lista de reproducción con el curso
 
-#Dia 15 RETO BÁSICO CALCULADORA PROPINA
+#Dia 16 RETO BÁSICO CALCULADORA PROPINA
 #Crear una calculadora de propina que pida la cuenta total
 #El % de propina, las personas involucradas y
 #Diga la propina exacta que le toca a cada una
