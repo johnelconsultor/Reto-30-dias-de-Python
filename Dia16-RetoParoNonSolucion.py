@@ -17,9 +17,19 @@
 
 #Tareas
 #1 Generar el letrero de bienvenida
+print("calculadora Par o Impar")
 
 #2 Generar las variables que utilizaremos y respecivos inputs
+numero = int(input("Ingresar Número: "))
 
 #3 Generar el cálculo del resultado y almacenarlo en una variable
 
 #4 Entregar al usuario el mensaje con el resultado final
+
+if numero == 0:
+	print("El numero es 0 Par")
+elif numero % 2 == 0:
+	print(f"El numero {numero} es par")
+else:
+	print(f"El numero {numero} es impar")
+
