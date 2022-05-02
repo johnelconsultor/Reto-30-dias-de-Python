@@ -25,3 +25,16 @@
 #4 Decirle al usuario qué tipo de año es
 
 #5 Probar años 2022, 2024, 2026, 2028
+
+año = 2022
+
+if año % 4 == 0:
+    if año % 100 ==0:
+        if año % 400 == 0:
+            print("Bisiesto")
+        else:
+            print("No bisiesto")
+    else:
+        print("Bisiesto")
+else:
+    print("No Bisiesto")
