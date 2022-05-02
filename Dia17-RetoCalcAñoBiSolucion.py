@@ -17,24 +17,24 @@
 
 #Tareas
 #1 Generar el letrero de bienvenida
+print("Calculadora de año bisiesto")
 
 #2 Generar las variables que utilizaremos y respecitvos inputs
+año = int(input("Inserte el año: "))
 
 #3 Generar el cálculo del resultado y almacenarlo en una variable
-
 #4 Decirle al usuario qué tipo de año es
+
+if año % 4 == 0:
+	if año % 100 == 0:
+		if año % 400 == 0:
+			print("Es Bisiesto")
+		else:
+			print("No es Bisiesto")
+	else:
+		print("Es Bisiesto")
+else:
+	print("No es Bisiesto")
 
 #5 Probar años 2022, 2024, 2026, 2028
 
-año = 2022
-
-if año % 4 == 0:
-    if año % 100 ==0:
-        if año % 400 == 0:
-            print("Bisiesto")
-        else:
-            print("No bisiesto")
-    else:
-        print("Bisiesto")
-else:
-    print("No Bisiesto")
