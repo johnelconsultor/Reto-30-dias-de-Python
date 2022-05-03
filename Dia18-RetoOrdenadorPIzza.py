@@ -4,7 +4,7 @@
 #1 Link a mi web donde esta python
 #2 Lista de reproducción con el curso
 
-#Dia 18 RETO Oradenador de Pizza
+#Dia 18 RETO Ordenador de Pizza
 #Construir un ordenador de pizza que calcule el monto total
 #Con base en los elementos dados
 
@@ -13,8 +13,8 @@
 #pizzaMediana = 20
 #pizzaFamiliar = 40
 
-#costo pepperoni para pequeña $1
-#costo pepperoni para las otras $3
+#Toppings por separado
+#costo pepperoni para pequeña $1 y para las otras $3
 #Queso adicional $2
 
 #Tareas
