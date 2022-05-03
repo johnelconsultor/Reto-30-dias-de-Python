@@ -27,3 +27,22 @@
 #3 Generar el cálculo del resultado y almacenarlo en una variable
 
 #4 Imprimir un mensaje personalizado al usuario
+
+
+from itertools import count
+
+
+nombre = "john"
+nombre2 = "daniela"
+lista = ["amor", "verdadero"]
+
+contador = 0
+contador2 = 0
+
+for items in lista:
+    for palabras in items:
+        contador += nombre.count(palabras)
+        contador2 += nombre2.count(palabras)
+        print(palabras, nombre2)
+        print(nombre2.count(palabras))
+
