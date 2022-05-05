@@ -11,37 +11,64 @@
 #De una función sólo será ejecutado SOLAMENTE si la función es llamada
 
 
-print("\La función devolviendo un valor")
-#En tiktoks anteriores vimos como necesitamos la palabra clave return
-#Para que la función devuelva un valor y que en caso de no usarla la función
-#devuelve como resultado None por default. Debemos tener presente que las 
-#Funciones puden devolver cualquier tipo de dato
+# print("\La función devolviendo un valor")
+# #En tiktoks anteriores vimos como necesitamos la palabra clave return
+# #Para que la función devuelva un valor y que en caso de no usarla la función
+# #devuelve como resultado None por default. Debemos tener presente que las 
+# #Funciones puden devolver cualquier tipo de dato
 
-print("\n Devolviendo un string")
-def saludo (nombre):
-    mensajeSaludo = f"hola {nombre} eres una guapura!"
-    return mensajeSaludo
+# print("\n Devolviendo un string")
+# def saludo (nombre):
+#     mensajeSaludo = f"hola {nombre} eres una guapura!"
+#     return mensajeSaludo
 
-print(saludo("john"))
-print(type(saludo("john")))
-
-
-print("\n Devolviendo un int")
-def sumaDosNumeros (parametro1, parametro2):
-    total = parametro1 + parametro2
-    return total
-
-print(sumaDosNumeros(10, 25))
-print(type(sumaDosNumeros(10, 25)))
+# #Llamamos la función
+# print(saludo("john"))
+# print(type(saludo("john")))
 
 
-print("\n Devolviendo un float")
-def division(dividendo, divisor):
-    resultado = dividendo / divisor
-    return resultado
+# print("\n Devolviendo un int")
+# def sumaDosNumeros (parametro1, parametro2):
+#     total = parametro1 + parametro2
+#     return total
 
-print(division(5,10))
-print(type(division(5,10)))
+# #Llamamos la función
+# print(sumaDosNumeros(10, 25))
+# print(type(sumaDosNumeros(10, 25)))
 
-print("\n Devolviendo un bool")
-print()
+
+# print("\n Devolviendo un float")
+# def division(dividendo, divisor):
+#     resultado = dividendo / divisor
+#     return resultado
+
+# #Llamamos la función
+# print(division(5,10))
+# print(type(division(5,10)))
+
+# print("\n Devolviendo un bool")
+# def esPar (numero):
+#     if numero % 2 == 0:
+#         return True
+#     else:
+#         return False
+
+# #Llamamos la función
+# print(esPar(10))
+# print(type(esPar(10)))
+
+
+# print("\n Devolviendo una lista")
+# def generadorPares(numMin, numMax):
+#     listaPares = []
+#     for i in range(numMin,numMax):
+#         if i % 2 == 0:
+#             listaPares.append(i)
+#     return(listaPares)
+
+# #Llamamos la función
+# print(generadorPares(0,10))
+# print(type(generadorPares))
+
+# #Mis queridos dataadictos y dataadictas aún nos falta  aprender mucho sobre las funciones
+# #Así que continuaremos en el siguiente tiktok
