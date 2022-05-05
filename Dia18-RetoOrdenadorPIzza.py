@@ -4,7 +4,7 @@
 #1 Link a mi web donde esta python
 #2 Lista de reproducción con el curso
 
-#Dia 18 RETO Ordenador de Pizza
+#Dia 19 RETO Ordenador de Pizza
 #Construir un ordenador de pizza que calcule el monto total
 #Con base en los elementos dados
 

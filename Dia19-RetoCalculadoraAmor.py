@@ -4,7 +4,7 @@
 #1 Link a mi web donde esta python
 #2 Lista de reproducción con el curso
 
-#Dia 18 RETO Calculadora del amor
+#Dia 19 RETO Calculadora del amor
 #Vamos a crear un programa que calcula la compatibilidad
 #De dos personas utilizando un método de revista de compras
 #Por Catálogo
