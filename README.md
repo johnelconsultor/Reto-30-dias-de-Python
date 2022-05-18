@@ -49,7 +49,7 @@ El reto de Python en 30 día y algo desde el celular fue creado con el propósit
 | 19  |  [Funciones Parte 1](./Dia19-FuncionesPart1.py) | [Funciones Parte 2](./Dia19-FuncionesPart2.py) |
 |     |  [Funciones Parte 3](./Dia19-FuncionesPart3.py) | [Funciones Parte 4](./Dia19-FuncionesPart4.py) |
 | 20  |  [Modulos Parte 1](./Dia20-ModulosPart1.py) | [Modulos Parte 2](./Dia20-ModulosPart2.py) |
-| 21  |  [List Cpmprenhension](./Dia21-ListComprenhension.py) | próx... |
+| 21  |  [List Comprenhension](./Dia21-ListComprenhension.py) | próx... |
 
  
 🐍Trabajo en pthrrrrrrrrrrrroceso  (última actualización: 22/04/2022)🐍
