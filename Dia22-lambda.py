@@ -24,11 +24,20 @@ print("""x = lambda param1, param2, param3: param1 + param2 + param3
 print(x(arg1, arg2, arg3)""")
 
 print("\nEjemplo 1 Modo tradicional")
-def sumarDos():
+def sumarDos(a, b):
     return a + b
 print(sumarDos(10,20))
 
-print("\nEjemplo 1 Modo tradicional")
-def sumarDos():
-    return a + b
+print("\nEjemplo 2 Modo lambda")
+sumarDos = lambda param1, param2: param1 + param2
+print(sumarDos(10,20))
+
+
+
+print("\nAuto invocar una función lambda")
+#autoinvocar es que la puedo crear y ejecutar sin necesidad de llamarla como una función tradicional
+print((lambda a, b: a + b)(10,20))
+
+print("\nEjemplo 2 Modo lambda")
+sumarDos = lambda param1, param2: param1 + param2
 print(sumarDos(10,20))
