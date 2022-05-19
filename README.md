@@ -41,8 +41,15 @@ El reto de Python en 30 día y algo desde el celular fue creado con el propósit
 |     |  [Bucle For I](./Dia14-BucleFor1.py) | [Bucle For II](./Dia14-BucleFor2n.py) |
 | 15  |  [Reto Expectativa Vida](./Dia15-RetoBasicL&W.py) | [Reto Expectativa Vida Solución](./Dia15-RetoBasicL&WSolucion.py) |
 |     |  [Reto IMC](./Dia15-RetoBasicBMI.py) | [Reto IMC Solución](./Dia15-RetoBasicBMISolucion.py) |
-
-
+| 16  |  [Reto Cal. Propina](./Dia16-RetoCaculadoraPropina.py) | [Solución Calc. Propina](./Dia16-RetoCaculadoraPropinaSolucion.py) |
+|     |  [Reto Par o Non](./Dia16-RetoParoNon.py) | [Solución Par o Non](./Dia16-RetoParoNonSolucion.py) |
+| 17  |  [Reto BMI 2.0](./Dia17-RetoBMI2.0.py) | [Solución BMI 2.0](./Dia17-RetoBMI2.0Solucion.py) |
+|     |  [Reto Año Bisiesto](./Dia17-RetoCalcAñoBi.py) | [Solución Año Bisiesto](./Dia17-RetoCalcAñoBiSolucion.py) |
+| 18  |  [Reto Ordenador Piza](./Dia18-RetoOrdenadorPIzza.py) | [Solución Ordenador Pizza](./Dia18-RetoOrdenadorSolucion.py) |
+| 19  |  [Funciones Parte 1](./Dia19-FuncionesPart1.py) | [Funciones Parte 2](./Dia19-FuncionesPart2.py) |
+|     |  [Funciones Parte 3](./Dia19-FuncionesPart3.py) | [Funciones Parte 4](./Dia19-FuncionesPart4.py) |
+| 20  |  [Modulos Parte 1](./Dia20-ModulosPart1.py) | [Modulos Parte 2](./Dia20-ModulosPart2.py) |
+| 21  |  [List Comprenhension](./Dia21-ListComprenhension.py) | próx... |
 
  
 🐍Trabajo en pthrrrrrrrrrrrroceso  (última actualización: 22/04/2022)🐍
