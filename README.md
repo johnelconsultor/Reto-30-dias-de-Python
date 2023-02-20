@@ -52,7 +52,7 @@ El reto de Python en 30 día y algo desde el celular fue creado con el propósit
 | 21  |  [List Comprenhension](./Dia21-ListComprenhension.py) | próx... |
 
  
-🐍Trabajo en pthrrrrrrrrrrrroceso  (última actualización: 22/04/2022)🐍
+🐍Trabajo en pthrrrrrrrrrrrroceso  (última actualización: 20/02/2023)🐍
 
 
 
